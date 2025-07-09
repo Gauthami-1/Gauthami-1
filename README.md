@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋 I'm Gauthami!
 
-<!--
-**Gauthami-1/Gauthami-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering graduate from UIUC with a Business minor and a strong interest in building intelligent, user-focused software solutions. I love working on projects at the intersection of AI, full-stack development, and real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Skills & Technologies
+
+**Languages:**  
+Python, C/C++, JavaScript/TypeScript, Java, MySQL, HTML/CSS, SystemVerilog, Assembly (LC-3 & x86)
+
+**Frameworks & Libraries:**  
+React.js, Spring Boot, PyTorch, Streamlit, CrewAI, Flutter/FlutterFlow, Unreal Engine
+
+**Tools & Platforms:**  
+GitHub, Bitbucket, Docker, Postman, Node.js, Firebase, Selenium, Jira, REST APIs, Espresso, JUnit
+
+**Focus Areas:**  
+Full-Stack Development, Android Development, Robot Operating System (ROS), CUDA, LLM Prompt Engineering
+
+---
+
+#### 🚀 What I've Worked On in the past!
+
+- LLM-powered AI agent projects using CrewAI  
+- Android apps with real-time weather and user insights  
+- Full-stack travel and recommendation platforms  
+
+---
+
+#### 📫 Let's Connect!
+
+- 💼 [LinkedIn](www.linkedin.com/in/gauthami-yenne)  
+- 📧 gauthami1310@gmail.com 
+
+Thanks for stopping by!
