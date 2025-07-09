@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gauthami!
 
-I'm a Computer Engineering graduate from UIUC with a Business minor and a strong interest in building intelligent, user-focused software solutions. I love working on projects at the intersection of AI, full-stack development, and real-world impact.
+I'm a Computer Engineering graduate from UIUC with a Business minor and a strong interest in building intelligent, user-focused software solutions. I love working on projects at the intersection of AI, and full-stack development.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a Computer Engineering graduate from UIUC with a Business minor and a strong
 Python, C/C++, JavaScript/TypeScript, Java, MySQL, HTML/CSS, SystemVerilog, Assembly (LC-3 & x86)
 
 **Frameworks & Libraries:**  
-React.js, Spring Boot, PyTorch, Streamlit, CrewAI, Flutter/FlutterFlow, Unreal Engine
+React.js, SpringBoot, PyTorch, Streamlit, CrewAI, Flutter/FlutterFlow, Unreal Engine
 
 **Tools & Platforms:**  
 GitHub, Bitbucket, Docker, Postman, Node.js, Firebase, Selenium, Jira, REST APIs, Espresso, JUnit
